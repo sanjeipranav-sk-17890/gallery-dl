@@ -1,5 +1,6 @@
 # gallery-dl Documentation
 
+- ## [Windows User Guide](windows-guide.md)
 - ## [Supported Sites](supportedsites.md)
 - ## [Command Line Options](options.md)
 - ## [Configuration File Options](configuration.rst)
